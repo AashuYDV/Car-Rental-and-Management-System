@@ -1,5 +1,6 @@
 # car-rental-system-using-mysql
-how to create car rental system in c++ with mysql
-if you want to watch the video for better understanding about the given code then click on given link:
-https://youtu.be/fdWRjI2tNSk
+Project Goal: Develop a user-friendly online car rental system that simplifies the booking and management process for both customers and rental agencies.
+Target Users:
+1) Customers seeking to rent vehicles for personal or business purposes.
+2) Car rental agencies aiming to streamline operations and improve customer experience.
  
